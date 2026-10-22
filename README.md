@@ -14,9 +14,11 @@ Dự án được phân chia thành các thư mục chức năng rõ ràng:
 | `docs/` | Tài liệu hướng dẫn và báo cáo kỹ thuật |
 
 ## Quy trình đăng ký học tại TTA
-1. Học viên chọn khóa học phù hợp với nhu cầu và trình độ tiếng Anh.
-2. Điền thông tin vào phiếu đăng ký và xác nhận thời gian học (số tháng).
-3. Thanh toán học phí và nhận thông tin tài khoản truy cập hệ thống từ kế toán.
+1.Lựa chọn khóa học: Học viên tìm hiểu và chọn chương trình học phù hợp với trình độ, định hướng cá nhân.
+
+2.Đăng ký thông tin: Hoàn tất phiếu đăng ký và đăng ký thời hạn học tập (tính theo tháng).
+
+3.Thanh toán & Nhận tài khoản: Hoàn thành nghĩa vụ học phí để được kế toán cấp tài khoản truy cập hệ thống.
 
 ## Lệnh Terminal  kiểm tra cấu trúc
 ```
