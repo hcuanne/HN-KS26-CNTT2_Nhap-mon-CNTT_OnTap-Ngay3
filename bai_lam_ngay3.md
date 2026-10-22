@@ -1,6 +1,6 @@
 # BÀI LÀM – ÔN TẬP NGÀY 3
 
-- **Họ tên:** NGUYÊN ANH THƯ
+- **Họ tên:** NGUYỄN HỒNG QUÂN
 - **Lớp:** CNTT2
 - **Link repository:**
 - **Hệ điều hành (Windows/macOS):** MACOS
