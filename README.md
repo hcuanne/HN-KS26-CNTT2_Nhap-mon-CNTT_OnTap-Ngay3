@@ -3,8 +3,7 @@
 # Quản lý Học phí Trung tâm Tiếng Anh (TTA)
 ## PHẦN 1:
 ## Giới thiệu dự án
-Dự án này được xây dựng nhằm **tự động hóa việc quản lý dữ liệu học viên**, _tối ưu hóa quy trình tính toán học phí_ và hỗ trợ bộ phận kế toán theo dõi tài chính một cách nhanh chóng, chính xác.
-
+Hệ thống được thiết kế nhằm tự động hóa quản lý học viên, tối ưu tính toán học phí và hỗ trợ kế toán kiểm soát tài chính minh bạch, chính xác.
 ## Cấu trúc thư mục
 Dự án được phân chia thành các thư mục chức năng rõ ràng:
 
